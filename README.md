@@ -1,5 +1,5 @@
 # Aloha!    
-# <img src="https://github.com/xivawi/xivawi/blob/main/manita.gif" heigth="65" />     ... I'm Isaac
+# <img src="https://github.com/xivawi/xivawi/blob/main/manita.gif" heigth="1" />     ... I'm Isaac
 <p align="center"> 
 
 ## About 🧭 🗺️ 👨‍🔧 🖥️
