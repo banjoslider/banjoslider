@@ -3,10 +3,10 @@
 <p align="center"> 
 
 ## About 🧭 🗺️ 👨‍🔧 🖥️
-- Musician and mechanical engineer by training; software engineer by devotion. Since a kiddo, been passionate about Free Software, UNIX and computers.
-- I'm a very adaptable autodidact that savors learning new technologies and practicing various hobbies. 
-- I write pokayoke software tools that follow the UNIX philosophy.
+- Musician and mechanical engineer by training; software engineer by devotion. 
+- I'm a highly adaptable autodidact that savors learning new technologies and practicing various hobbies. 
 - Avid backpacker
+- I write pokayoke tools following the UNIX philosophy.
   
  ## I do 🤓 
 - Web Apps
@@ -14,7 +14,7 @@
 - Python
 - FreeBSD
 - TUIs
-- Linux
+- Linux & UNIX
 - FOSS
 - Exploratory testing
 - Automation
