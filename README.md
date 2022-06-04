@@ -10,13 +10,13 @@
   
  ## I do 🤓 
 
-- Exploratory Testing && Reverse Engineering
-- FreeBSD & Linux && ZFS
+- Exploratory Testing & Reverse Engineering
+- FreeBSD & Linux & ZFS
 - Kubernetes
 - Automation
-- Web Apps && DFS
-- AWS && GCP
-- TUI's && Python
+- Web Apps & DFS
+- AWS & GCP
+- TUI's & Python
 
 ## Contact ☎️ 
 - Love connecting with different people through the interweb communities. 
