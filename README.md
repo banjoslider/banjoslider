@@ -21,7 +21,7 @@
 ## Contact ☎️ 
 - Love connecting with different people through the interweb communities. 
 - If you want to contact me , feel free to send me an email. I'll be happy to hear from you :)
-- ***xivawi@tutanota.com***  
+- ***isaacmaya@tutanota.com***  
 
 ## Random quote 🔖
 
