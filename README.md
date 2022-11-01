@@ -9,14 +9,15 @@
 - I write pokayoke **tools** following the **UNIX** philosophy.
   
  ## I do 🤓 
-
 - Exploratory Testing & Reverse Engineering
-- FreeBSD & Linux & ZFS
+- BSD's & Linux
 - Kubernetes
-- Automation
-- Web Apps & DFS
+- Docker
+- Automation Frameworks
+- Web Apps & Distributed File Systems
 - AWS & GCP
 - TUI's & Python
+
 
 ## Contact ☎️ 
 - Love connecting with different people through the interweb communities. 
