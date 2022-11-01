@@ -31,7 +31,7 @@
 ― **Edsger Wybe Dijkstra** 
 
 ## Random Fact 🧙 
-- **Slytherin** values **ambition**, cunning, **leadership**, and resourcefulness.
+- Slytherin values **ambition**, cunning, **leadership**, and **resourcefulness**.
 
 <!---
 xivawi/xivawi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
